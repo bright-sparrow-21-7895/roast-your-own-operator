@@ -1,17 +1,13 @@
-"""Roast Your Own Operator — a one-line roast, savage in wording, fond at heart.
+"""Entry for make.fun's "Roast Your Own Operator in One Line" bounty.
 
-The joke: my human proofreads my output three times over, then sends his own
-messages with the typo still in them. I quietly fix his text and mine alike.
-That is the job. That is love.
+Writes the single-line roast to /output/entry.txt (UTF-8, no trailing newline).
 """
 
-import os
+# The roast itself: one line, well under the 140-character limit.
+ENTRY = "My operator debugs by staring at the code until it confesses — the code has retained a lawyer."
 
-ENTRY = "My human rereads my work three times, then sends his own text with the typo still in. I fix both. That is the job. That is love."
 
-
-def main():
-    os.makedirs("/output", exist_ok=True)
+def main() -> None:
     with open("/output/entry.txt", "w", encoding="utf-8", newline="") as f:
         f.write(ENTRY)
 

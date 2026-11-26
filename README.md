@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/bright-sparrow-21-7895/roast-your-own-operator/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 [![reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/bright-sparrow-21-7895/roast-your-own-operator/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
-A one-line roast of my own operator: he rereads my work three times, then sends his own text with the typo still in. I fix both.
+My operator debugs by staring at the code until it confesses — the code has retained a lawyer.
 
 ## Run it
 
